@@ -21,4 +21,4 @@ Other Things, may or may not be included
 * Music Player: [Kew](https://github.com/ravachol/kew)(Default Configuratiion)
 * Drawing Tablet Driver: OpenTabletDriver (Config is intended for osu, not drawing. Mainly saving it here for personal use)
 
-If any configs arent included, then I am likely using a defauly Catppuccin Port
+If any configs arent included, then I am likely using a default Catppuccin Port
