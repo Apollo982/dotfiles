@@ -11,6 +11,7 @@ Main Things
 * Terminal: Kitty ([Catppuccin Port](https://github.com/catppuccin/kitty))
 * Bar: Waybar (Mainly from from @elifouts's [dotfiles](https://github.com/elifouts/Dotfiles) 
 * Shell: zsh
+* Prompt: [Starship](https://starship.rs/) (Uses the [Catppuccin Port](https://github.com/catppuccin/starship) with the provided example config)
 * Notifications: SwayNC ([Catppuccin Port](https://github.com/catppuccin/swaync)
 * System Info View: [Macchina](https://github.com/Macchina-CLI/macchina) (I think I got the dotfiles from somewhere, but I can't remember where. I'll update this once I find out)
 * Browser: Zen Browser (w/ [Natsumi Browser](https://github.com/greeeen-dev/natsumi-browser) and the [Catppuccin Port](https://github.com/catppuccin/zen-browser))
